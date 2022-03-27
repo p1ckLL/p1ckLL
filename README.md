@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @p1ckLL
-- 👀 I’m interested in roblox lua
-- 🌱 I’m currently learning whatever im curious about lol
-- 💞️ I’m looking to collaborate on a new game
-- 📫 How to reach me via discord: p1ckL#0001
+i use github*
+
+
+
+
+
+
+
+
+occasionally
