@@ -1,1 +1,1 @@
-cutely uses git to copy code onto vm
+*cutely uses git to copy code onto vm*
