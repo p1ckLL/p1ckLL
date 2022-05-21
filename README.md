@@ -1,10 +1,1 @@
-i use github*
- 
- 
- 
- 
- 
- 
- 
- 
-*occasionally
+cutely uses git to copy code onto vm
